@@ -1,4 +1,4 @@
-# IstclapDocs
+# IstclapDokümans
 Python üzerinde çalışan bir döküman uygulaması
 
 # Kurulum
