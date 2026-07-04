@@ -1,5 +1,5 @@
 # IstclapDokümans
-Python üzerinde çalışan bir döküman uygulaması
+Python üzerinde çalışan ve yerel bir döküman uygulaması
 
 # Kurulum
 Kod bölümü içerisinde ve sürümler bölümünde Python ve Exe dosyaları mevcuttur, ister python dosyası olarak,
